@@ -1,28 +1,28 @@
-Airship Syndicate
-Blizzard Entertainment
-Cherry-design
-Crate Entertainment
-Electronic Arts
-Eleventh Hour Games
-Epic Games
-Frag Lab Llc
-Gearbox Software
-Grinding Gear Games
-Hempuli Oy
-Hopfrog
-Iron Gate Ab
-Nadeo
-Nicalis, Inc.
-Obs-server
-Re-logic
-Riot Project
-Rockstar Games
-Sokpop Collective
-Techland
-The Game Kitchen
-Ubi Soft
-Unity
-Unity Technologies Aps
-Valve
-Wargaming Group Limited
-Zenimax Online Studios
+airship_syndicate
+blizzard_entertainment
+cherry-design
+crate_entertainment
+electronic_arts
+eleventh_hour_games
+epic_games
+frag_lab_llc
+gearbox_software
+grinding_gear_games
+hempuli_oy
+hopfrog
+iron_gate_ab
+nadeo
+nicalis,_inc.
+obs-server
+re-logic
+riot_project
+rockstar_games
+sokpop_collective
+techland
+the_game_kitchen
+ubi_soft
+unity
+unity_technologies_aps
+valve
+wargaming_group_limited
+zenimax_online_studios
